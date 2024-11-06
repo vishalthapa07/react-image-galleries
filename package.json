@@ -10,7 +10,20 @@
     "build": "rollup -c --environment NODE_ENV:production"
   },
   "keywords": [
-    "react"
+    "react",
+    "carousel",
+    "react-component",
+    "react-carousel",
+    "react-slideshow",
+    "react-gallery",
+    "react carousel",
+    "react slideshow",
+    "react gallery",
+    "image gallery",
+    "image slider",
+    "slideshow",
+    "gallery",
+    "slider"
   ],
   "author": "Vishal Thapa",
   "license": "ISC",
