@@ -1,6 +1,6 @@
 {
   "name": "react-image-galleries",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "type": "module",
   "description": "React image galleries is a react component for building image gallery and carousels",
   "main": "dist/index.js",
