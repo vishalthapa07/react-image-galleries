@@ -2,7 +2,7 @@
 
 React image galleries is a react component for building image galleries and carousels
 
-![output](./public/output.png)
+- [Live demo preview](https://drive.google.com/file/d/1NAsVd6ij6t3nUFhKiwljTgbEAJZDjxwU/view?usp=sharing)
 
 ## How to use it?
 
